@@ -1,4 +1,4 @@
-# ECE1779-A3
+# TripScheduler
 a trip scheduler made with flask and deployed on aws lambda
 ## What does it use?
 AWS: dynamodb, s3, personalize, lambda
